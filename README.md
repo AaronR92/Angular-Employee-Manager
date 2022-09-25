@@ -1,7 +1,7 @@
 # Angular Employee Manager
 
 ### REST web app
-#### Allows you manage your employees and information about they
+#### Allows you manage your employees and information about them
 
 ### Tech stack
 - Spring JPA
